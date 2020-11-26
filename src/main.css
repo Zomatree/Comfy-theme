@@ -9,7 +9,6 @@
 
 .scroller-2TZvBN { margin-bottom: 140px;}
 
-.flex-1xMQg5 > .button-14-BFJ { color: #096dc0; margin: 5px; }
 
 [aria-label="Hide Game Activity"], [aria-label="Show Game Activity"] {
     position: fixed;
@@ -59,16 +58,6 @@
 .typing-2GQL18 { margin-left: 50px; }
 
 /* Avatar */
-.panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp { 
-    position: fixed;
-    z-index: 5;
-    bottom: 31px;
-    left: 325px;
-}
-
-.avatarWrapper-2yR4wp > .avatar-SmRMf2.wrapper-3t9DeA { padding: 4px; }
-.container-1D34oG, .container-3Mxszk, .applicationStore-1pNvnv, .pageWrapper-1PgVDX, .wrapper-2qzCYF { z-index: 6;} /* Cacher l'avatar */
-
 /* Status */
 .customEmojiPlaceholder-37iZ_j { background-image: url(https://i.ibb.co/hVKW6Xs/e.png);}
 .description-2L932D, .status-1fhblQ, .separator-2I32lJ { display: none;}
