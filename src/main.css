@@ -10,7 +10,6 @@
 .scroller-2TZvBN { margin-bottom: 140px;}
 
 .flex-1xMQg5 > .button-14-BFJ { color: #096dc0; margin: 5px; }
-.container-3baos1 > .flex-1xMQg5:not(.spotify-buttons) { display: flex; flex-direction: column;}
 
 [aria-label="Hide Game Activity"], [aria-label="Show Game Activity"] {
     position: fixed;
@@ -84,7 +83,6 @@
 /* --- 👥 PARTIE MEMBRES --- */
 
 /* Popup d'un membre */
-.headerNormal-T_seeN, .headerPlaying-j0WQBV, .headerStreaming-2FjmGz, .headerSpotify-zpWxgT { background: #151b27 !important;}
 .activityUserPopout-2yItg2 { border-radius: 5px; margin: 0 8px 15px 8px; padding: 10px;}
 .headerPlaying-j0WQBV > .activityUserPopout-2yItg2 { background: #7289DA !important; box-shadow: 0px 4px 0px #46599c;}
 .headerSpotify-zpWxgT > .activityUserPopout-2yItg2 { background: #1DB954 !important; box-shadow: 0px 4px 0px #11923e;}
